@@ -2,7 +2,7 @@
 
 
 
-HX711 scale(6, 5); //HX711 scale(6, 5);
+HX711 scale(8, 9); //HX711 scale(6, 5);
 
 float calibration_factor = -404.5;
 float units;
