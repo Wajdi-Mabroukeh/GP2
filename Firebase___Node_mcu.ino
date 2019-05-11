@@ -21,10 +21,10 @@
 #include <FirebaseArduino.h>
 
 // Set these to run example.
-#define FIREBASE_HOST "esp8266-and-firebase.firebaseio.com"
-#define FIREBASE_AUTH "14tvRbbGymyoWr6WSvvxXxW5qWgplizKd1MHLfVk"
-#define WIFI_SSID "Mohandesoon"
-#define WIFI_PASSWORD "2380455na3na3"
+#define FIREBASE_HOST "------"
+#define FIREBASE_AUTH "------"
+#define WIFI_SSID "-------"
+#define WIFI_PASSWORD "------"
 String LEDStatus = "";
 
 void setup() {
